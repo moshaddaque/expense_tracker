@@ -1,6 +1,12 @@
-# cash_track
+# Cash Tracker App
 
-A new Flutter project.
+This app is created by flutter. i use sqlite to store data in local database.
+
+## Screenshots:
+<img src="https://github.com/moshaddaque/expense_tracker/blob/master/screenshots/home.png" height ="200"/>
+<img src="https://github.com/moshaddaque/expense_tracker/blob/master/screenshots/add_expense.png" height ="200"/>
+<img src="https://github.com/moshaddaque/expense_tracker/blob/master/screenshots/date_picker.png" height ="200"/>
+<img src="https://github.com/moshaddaque/expense_tracker/blob/master/screenshots/all_task.png" height ="200"/>
 
 ## Getting Started
 
